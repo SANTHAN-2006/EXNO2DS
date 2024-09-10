@@ -25,7 +25,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 ## CODING AND OUTPUT
 ### STEP 1 :
 #### Code : 
-```
+```python
 # Import the required libraries for data manipulation and visualization
 import pandas as pd
 import numpy as np
@@ -226,4 +226,4 @@ plt.show()
 
 
 # RESULT
-Therefore, successfully performed all the operations above.
+Therefore, successfully performed Exploratory Data Analysis on the given data set.
